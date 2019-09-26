@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MisDatos</string>
+    <string name="Nombre">Eugenia Juárez Tolentino</string>
+    <string name="Carrera">ITIC</string>
+    <string name="Matricula">167010034</string>
+    <string name="Grupo">7T11</string>
+    <string name="Profesor">De la O Martinez Victor Hugo</string>
+</resources>
